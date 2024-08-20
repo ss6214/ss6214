@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ss6214
-- 👀 I’m interested in becoming a software developer
-- 🌱 I’m currently learning coding
+- 👋 Hi, I’m Saanvi
+- 👀 I’m interested in becoming a Data Analyst/Scientist
+- 🌱 I’m currently learning advanced SQL.
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me email- saanvi.shankar2000@gmail.com
 
